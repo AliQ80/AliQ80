@@ -9,7 +9,7 @@ I've been coding since 1988, from the days of BASIC, I was 13 at the time. Now I
 * 🌍  I'm based in Kuwait
 * ✉️  You can contact me at [ak@alikaram.com](mailto:ak@alikaram.com)
 * 🚀  I'm currently working on [My Website](http://alikaram.com)
-* 🧠  I'm learning svelteKit
+* 🧠  I'm always learning somthing new
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm also working on online training courses but that is taking a while
 
